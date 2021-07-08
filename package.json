@@ -1,0 +1,17 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "programming exercise",
+  "main": "index.js",
+  "author": "Xiaodi Huang",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.7",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3"
+  }
+}
